@@ -1,0 +1,5 @@
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\TP1\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\TP1\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\TP1\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\TP1\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+D:\2do SEMESTRE PROGRAMACION\Laboratorio II\TP1\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
